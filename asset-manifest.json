@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Kinder/static/css/main.12c5f928.css",
+    "main.js": "/Kinder/static/js/main.120349ec.js",
+    "static/media/Gamja.ttf": "/Kinder/static/media/Gamja.317f969e43bbf7cb06a0.ttf",
+    "static/media/logo.png": "/Kinder/static/media/logo.838c0b6d4e48d6ba50da.png",
+    "static/media/child3.png": "/Kinder/static/media/child3.bf98fae025b1b84c1927.png",
+    "static/media/backAbout.jpg": "/Kinder/static/media/backAbout.8bb22b55272c22e6a73c.jpg",
+    "static/media/child1.png": "/Kinder/static/media/child1.036987744f9e73c24ea8.png",
+    "static/media/child4.png": "/Kinder/static/media/child4.fed1947f8f42a2cb3606.png",
+    "static/media/child2.png": "/Kinder/static/media/child2.ac221b9accf9f3465c07.png",
+    "static/media/photo-home.jpg": "/Kinder/static/media/photo-home.e29e64705858999c2caf.jpg",
+    "static/media/divider.png": "/Kinder/static/media/divider.7b99fd5fcff08d8e8d11.png",
+    "static/media/photoAbout1.jpg": "/Kinder/static/media/photoAbout1.8aa46c2119e97bd7a5a5.jpg",
+    "static/media/Kids.ttf": "/Kinder/static/media/Kids.4b2c3141a69fc16be743.ttf",
+    "static/media/petunia.ttf": "/Kinder/static/media/petunia.6ba33dde3516f996d1da.ttf",
+    "static/media/childStudy.jpg": "/Kinder/static/media/childStudy.a07abd9893606d17cded.jpg",
+    "static/media/teacher.jpg": "/Kinder/static/media/teacher.d1ec267fb2e1edcf6a24.jpg",
+    "static/media/logo.svg": "/Kinder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Kinder/index.html",
+    "main.12c5f928.css.map": "/Kinder/static/css/main.12c5f928.css.map",
+    "main.120349ec.js.map": "/Kinder/static/js/main.120349ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12c5f928.css",
+    "static/js/main.120349ec.js"
+  ]
+}
